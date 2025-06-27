@@ -7,4 +7,4 @@ A simple responsive web page built using HTML and CSS. Includes:
 - Sticky footer
 - Mobile-friendly nav with Flexbox
 
-🔗 **Live Demo:** [View here](https://your-live-link.com)
+🔗 **Live Demo:** [View here](https://bhaveshdesale.github.io/Celebal-internship-task-week-4/)
